@@ -7,5 +7,5 @@
 3. Fetching top 10 performer in given data of week.
 4. Analyzing there performance in coming week.
 
-### End result
-![result](end-result.png "result")
+### Output
+![Output](end-result.png "Output")
